@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Divya Dhaipullay
+- 👋 Hi, I’m Divya Dhaipullay, studying Masters in Data Science at Indiana University, Bloomington
 - 👀 I’m interested in Deep Learning, Computer Vision, Natural Langugae Processing, Machine Learning, Data Analytics and Data Visualizations
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on  Deep Learning, Computer Vision, Natural Langugae Processing, Machine Learning, Data Analytsucs and Data Visualizations
